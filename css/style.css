@@ -541,9 +541,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-wechat {
-  background: #333333;
+  background: #50B674;
   color: #fff;
-  border: 2px solid #333333;
+  border: 2px solid #50B674;
 }
 
 .btn-wechat:hover, .btn-wechat:focus, .btn-wechat:active {
@@ -553,12 +553,34 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .btn-wechat.btn-outline {
   background: transparent;
-  color: #333333;
-  border: 2px solid #333333;
+  color: #50B674;
+  border: 2px solid #50B674;
 }
 
 .btn-wechat.btn-outline:hover, .btn-wechat.btn-outline:focus, .btn-wechat.btn-outline:active {
-  background: #333333;
+  background: #50B674;
+  color: #fff;
+}
+
+.btn-qq {
+  background: #68A6E1;
+  color: #fff;
+  border: 2px solid #68A6E1;
+}
+
+.btn-qq:hover, .btn-qq:focus, .btn-qq:active {
+  background: #F09E7B !important;
+  border-color: #F09E7B !important;
+}
+
+.btn-qq.btn-outline {
+  background: transparent;
+  color: #68A6E1;
+  border: 2px solid #68A6E1;
+}
+
+.btn-qq.btn-outline:hover, .btn-qq.btn-outline:focus, .btn-qq.btn-outline:active {
+  background: #68A6E1;
   color: #fff;
 }
 
@@ -737,14 +759,14 @@ h1, h2, h3, h4, h5, h6, figure {
 /*# sourceMappingURL=style.css.map */
 
 .github-color {
-  color: #23282D;
+  color: #333333;
   font-size: 32px !important;
 }
 
-.wechat-color {
-  color: #51B674;
+.qrcode-color {
+  color: #F3E07C;
 }
 
 .sa-color {
-  color: #CD5C5C;
+  color: #FF5E6E;
 }
